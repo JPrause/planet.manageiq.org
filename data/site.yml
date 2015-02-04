@@ -1,6 +1,6 @@
-name: Springboard for Middleman
-subhead: Static site construction kit
-domain: yourdomain.org
+name: Planet ManageIQ
+#subhead: Daily Edition
+domain: planet.middleman.org
 
 # Be sure to set up and install Juvia before enabling!
 #has_comments: true
