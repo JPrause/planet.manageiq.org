@@ -1,0 +1,17 @@
+CloudFORMS NOW:
+  image: cloudformsnow.png
+  feed: http://cloudformsnow.com/feed/
+
+Bryan Che:
+  image: bryanche.jpg
+  feed: http://tentenet.net/feed/
+
+Aaron Patterson:
+  feed: http://tenderlovemaking.com/atom.xml
+  image: tenderlove.png
+  rounded: false
+
+ManageIQ:
+  feed: http://manageiq.org/blog/feed.xml
+  image: manageiq.svg
+  rounded: false
