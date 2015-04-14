@@ -112,6 +112,9 @@ activate :site_helpers
 
 require 'lib/planet.rb'
 
+activate :google_analytics do |ga|
+  ga.tracking_id = 'UA-58883457-1'
+end
 
 ###
 # Development-only configuration
