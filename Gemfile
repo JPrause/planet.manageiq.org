@@ -68,3 +68,6 @@ gem "feedjira"
 
 # HTML sanitization
 gem 'sanitize'
+
+# Google Analytics
+gem 'middleman-google-analytics'
