@@ -11,7 +11,16 @@ Aaron Patterson:
   image: tenderlove.png
   rounded: false
 
-ManageIQ:
+ManageIQ Blog:
   feed: http://manageiq.org/blog/feed.xml
   image: manageiq.svg
   rounded: false
+
+The Foreman Blog:
+  feed: http://feeds.feedburner.com/theforeman/MaSy
+  image: foreman.png 
+
+Pulp Blog:
+  feed: http://www.pulpproject.org/blog/feed/
+  image: pulp-logo.png 
+
