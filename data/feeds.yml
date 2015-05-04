@@ -19,8 +19,9 @@ ManageIQ Blog:
 The Foreman Blog:
   feed: http://feeds.feedburner.com/theforeman/MaSy
   image: foreman.png 
+  rounded: false
 
 Pulp Blog:
   feed: http://www.pulpproject.org/blog/feed/
   image: pulp-logo.png 
-
+  rounded: false
