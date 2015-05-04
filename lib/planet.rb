@@ -1,5 +1,5 @@
 require 'nokogiri'
-require 'open-uri/cached'
+require 'open-uri'
 
 def rewrite_uris(html, base)
   doc = Nokogiri::HTML(html)
