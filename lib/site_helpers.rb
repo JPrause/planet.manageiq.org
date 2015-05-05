@@ -5,7 +5,7 @@ class SiteHelpers < Middleman::Extension
   end
 
   helpers do
-    require 'open-uri/cached'
+    require 'open-uri'
 
     def normalize_url(dirty_URL)
       r = url_for Middleman::Util.normalize_path(dirty_URL)

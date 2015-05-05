@@ -59,8 +59,6 @@ gem "stringex"
 # Markdown
 gem "kramdown"
 
-gem 'open-uri-cached'
-
 gem 'font-awesome-middleman'
 
 # RSS/Atom parsing
